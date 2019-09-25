@@ -1,0 +1,46 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Book rdf:about="urn:isbn:978-1-61521-617-8">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Whitney</foaf:surname>
+                        <foaf:givenName>Donald S</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Bible|1 Thessalonians 5:17|Prayer|p.81</dc:subject>
+        <dc:subject>Bible|1 Timothy4:7-8|Godliness - spiritual disciplines|p.10</dc:subject>
+        <dc:subject>Bible|Colossians 2:20-23|Godliness - spiritual disciplines|p.10</dc:subject>
+        <dc:subject>Bible|Colossians 4:2|Prayer|p.81</dc:subject>
+        <dc:subject>Bible|James 1:22|Doers of the word|p.78</dc:subject>
+        <dc:subject>Bible|Matthew 15:8-9|Worshipping in vain|p.103</dc:subject>
+        <dc:subject>Bible|Phillipians4:8|Positivity/Negativity|p. 63</dc:subject>
+        <dc:subject>Bible|Psalm 1:1-3|Meditate on law, not wickedness|p.50</dc:subject>
+        <dc:identifier>ISBN 978-1-61521-617-8</dc:identifier>
+        <dc:date>2014</dc:date>
+        <dc:description>OCLC: 991294998</dc:description>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+        <z:language>English</z:language>
+        <dc:title>Spiritual disciplines for the Christian life</dc:title>
+    </bib:Book>
+    <z:Collection rdf:about="#collection_1">
+        <dc:title>Theological Librarianship</dc:title>
+        <dcterms:hasPart rdf:resource="https://www.google.com/search?q=infrmation+seeking+behavior+theology&amp;ie=utf-8&amp;oe=utf-8"/>
+        <dcterms:hasPart rdf:resource="https://miessler.omeka.net/items/show/18"/>
+        <dcterms:hasPart rdf:resource="http://journal.atla.com/ojs/index.php/theolib/article/viewArticle/79"/>
+        <dcterms:hasPart rdf:resource="http://journal.atla.com/ojs/index.php/theolib/article/viewArticle/99"/>
+        <dcterms:hasPart rdf:resource="http://prism.ucalgary.ca/handle/1880/49852"/>
+    </z:Collection>
+</rdf:RDF>
